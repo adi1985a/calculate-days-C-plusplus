@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1678145466 source:c:\users\hp\desktop\programy na github\c++\programs\program podajacy ilosc dni w miesiacu - switch\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string.h>
+	<time.h>
+	<random>
+	<stdio.h>
+	<iomanip>
+	<conio.h>
+
+1742173286 source:f:\my portafolio it ulepszona\c++\programs\number of days in a month\month_calculator.cpp
+	"month_calculator.h"
+	<Windows.h>
+	<iomanip>
+
+1742173562 f:\my portafolio it ulepszona\c++\programs\number of days in a month\month_calculator.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<string>
+
