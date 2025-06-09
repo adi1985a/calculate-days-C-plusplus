@@ -21,6 +21,8 @@ _A C++ console application for accurately calculating the number of days in a gi
 
 **DaysInMonth Pro** is a practical C++ console application designed to provide quick and accurate information about the number of days in any given month and year. It correctly identifies leap years to ensure precise calculations for February. The application features a user-friendly, colorful interface (enhanced on Windows), maintains a history of calculations that can be saved to and viewed from `calculations.txt`, and includes cross-platform considerations for basic keypress handling. It's a handy utility for anyone needing quick calendar-related information.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   🗓️ **Days in Month Calculation**: Accurately determines the number of days for any specified month and year.
@@ -35,9 +37,17 @@ _A C++ console application for accurately calculating the number of days in a gi
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the main menu, input prompts for month/year, calculation results, history view, and the program information screen._
 
-_This section will be updated with screenshots showcasing the main menu, input prompts for month/year, calculation results, history view, and the program information screen._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 
